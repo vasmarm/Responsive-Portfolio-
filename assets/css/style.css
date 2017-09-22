@@ -166,7 +166,7 @@ aside {
 /*-------------------------------------*/	
 footer {
 	clear: both;	
-	background: grey;
+	background: #4aaaa5;
 	width: 100%;
 	text-align: center;
 	padding: 25px;
@@ -187,9 +187,9 @@ footer {
 
 /************* MEDIA QUERIES ********************/
 
-/*--------------- MONITOR (FOOTER: GREY)----------------------*/
+/*--------------- MONITOR (FOOTER: Green)----------------------*/
 @media screen and (max-width: 980px) {
-background-color: lightblue;
+
 }
 
 /*--------------- TABLET (FOOTER: YELLOW)----------------------*/
@@ -201,7 +201,9 @@ background-color: lightblue;
 /*--------------- MOBILE (FOOTER: RED)--------------------*/
 
 @media screen and (max-width: 640px) {
-
+	footer {
+		background-color: lightblue;
+	}
 }
 
 
