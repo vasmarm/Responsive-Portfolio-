@@ -28,6 +28,7 @@ hr {
 	margin: 0 auto;
 }
 /*-------------------------------------*/	
+/*-------------------------------------*/
 header {
 	background: #ffffff;
 	width: 100%;
@@ -195,14 +196,18 @@ footer {
 /*--------------- TABLET (FOOTER: YELLOW)----------------------*/
 
 @media screen and (max-width: 768px) {
-
+	footer {
+		background-color: grey;
+		font-size: 12px;
+	}
 }
 
 /*--------------- MOBILE (FOOTER: RED)--------------------*/
 
 @media screen and (max-width: 640px) {
 	footer {
-		background-color: red;
+		background-color: white;
+    	font-size: 12px;
 	}
 }
 
