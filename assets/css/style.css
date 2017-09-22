@@ -189,7 +189,7 @@ footer {
 
 /*--------------- MONITOR (FOOTER: Green)----------------------*/
 @media screen and (max-width: 980px) {
-
+	
 }
 
 /*--------------- TABLET (FOOTER: YELLOW)----------------------*/
@@ -202,7 +202,7 @@ footer {
 
 @media screen and (max-width: 640px) {
 	footer {
-		background-color: lightblue;
+		background-color: red;
 	}
 }
 
