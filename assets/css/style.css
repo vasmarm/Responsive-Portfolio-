@@ -204,6 +204,9 @@ footer {
 	.container{
 		width:100%;
 	}
+	.mid-container, .about, .portfolio, .contact, aside {
+        width: 96%;
+	}
 }
 
 /*--------------- MOBILE (FOOTER: RED)--------------------*/
@@ -219,6 +222,12 @@ footer {
 	}
 	aside{
 		width: 100%;
+	}
+	.mid-container, .about, .portfolio, .contact, aside {
+        width: 96%;
+	}
+	nav{
+		display: normal;
 	}
 }
 
