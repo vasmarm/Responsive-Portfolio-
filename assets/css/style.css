@@ -199,6 +199,10 @@ footer {
 	footer {
 		background-color: grey;
 		font-size: 12px;
+		width:100%;
+	}
+	.container{
+		width:100%;
 	}
 }
 
@@ -208,6 +212,13 @@ footer {
 	footer {
 		background-color: white;
     	font-size: 12px;
+    	width:100%;
+	}
+	.container{
+		width:100%;
+	}
+	aside{
+		width: 100%;
 	}
 }
 
