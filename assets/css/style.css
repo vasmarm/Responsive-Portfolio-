@@ -229,6 +229,10 @@ footer {
 	nav{
 		display: normal;
 	}
+	nav ul li {
+		display flex;
+
+	}
 }
 
 
